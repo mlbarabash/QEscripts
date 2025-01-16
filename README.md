@@ -1,2 +1,2 @@
 # QEscripts
-Helpful scripts when dealing wih Quantum Expresso input / output files
+Helpful scripts when dealing with Quantum Expresso input / output files
