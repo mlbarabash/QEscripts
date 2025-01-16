@@ -1,2 +1,2 @@
 # QEscripts
-Helpful scripts when dealing with Quantum Expresso input / output files
+Helpful Python scripts when dealing with Quantum Expresso input / output files
